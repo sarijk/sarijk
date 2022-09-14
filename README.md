@@ -16,7 +16,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 <br>
 <br>
 
-### Github Statistic
+<br>
 <p align="left">
 <a href="https://github.com/gilangadhan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sarijk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
