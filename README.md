@@ -1,11 +1,3 @@
-# Halo semua! 
-
-Perkenalkan nama saya **Jatu**.
-
-Saya sedang belajar **Native Android Development**.
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/jatu-kumala-sari-9a817b137)ku ya.
-
 ### Tech Stack
 <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="36px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
